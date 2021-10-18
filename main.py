@@ -225,7 +225,7 @@ if __name__ == '__main__':
                         help='number of class')
     parser.add_argument('--num_relation', type=int, default=9,
                         help='number of relation')
-    parser.add_argument('--seed', type=int,
+    parser.add_argument('--seed', type=int, default=24,
                         help='random seed')
     parser.add_argument('--bin_weight', type=float, default=5.0,
                         help='weight of binary task')
