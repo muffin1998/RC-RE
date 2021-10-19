@@ -59,6 +59,14 @@ optional arguments:
 ```
 
 ## 3. Evaluate Trained Model
+The trained model can be downloaded in:
+
+https://mayear-my.sharepoint.com/:u:/g/personal/muffin_mayear_onmicrosoft_com/EboRcgexDO9KuyN-XSH84ZEB27QqYKu9r8avNFVB9217yQ?e=pcInO7
+
+or
+
+https://drive.google.com/file/d/1fyb-OrRN-fErVg37WYRbreSBvor_4mwf/view?usp=sharing
+
 1. Put tensorflow checkpoint into saved_model with file name {task}
 2. Run
 ```bash
